@@ -2,7 +2,7 @@
 
 Olá, meu nome é <strong>Cayo Luiz</strong> <strong>[Sou um entusiasta por tecnologia, iniciando no mundo da programação]</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Javascrypt & Python</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos & Programação</strong>
 - 📣 Nós podemos falar em: <strong>PT-BR</strong>
 
